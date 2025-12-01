@@ -49,7 +49,7 @@
       <div class="hud" id="hud">Score: 0</div>
       <div class="controls-hint">Tap / Space — skok</div>
       <div class="rotate" id="rotateOverlay">
-        <div style="text-align:center;max-width:80%"><h2>Otoč zařízení na šířku</h2><p>Hru spustěte v režimu naležato pro nejlepší zážitek (Redmi 10).</p></div>
+        <div style="text-align:center;max-width:80%"><h2>Otoč zařízení na šířku</h2><p>Hru spustěte v režimu naležato pro nejlepší zážitek.</p></div>
       </div>
     </div>
   </div>
